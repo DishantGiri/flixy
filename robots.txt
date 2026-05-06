@@ -1,0 +1,16 @@
+# robots.txt for Flixy TV Stick Website
+
+# Allow all search engine crawlers
+User-agent: *
+Allow: /
+
+# Disallow admin or private directories (if any)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Sitemap location
+Sitemap: https://www.flixyofficial.com/sitemap.xml
+
+# Crawl-delay (optional - remove if not needed)
+# Crawl-delay: 1
+
