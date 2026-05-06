@@ -347,6 +347,7 @@ header p {
   }
 }
 
+
 @media (max-width: 480px) {
   .blog-grid {
     grid-template-columns: 1fr;
@@ -354,4 +355,202 @@ header p {
   .container {
     padding: 1rem;
   }
+}
+
+/* New Post Components Styling */
+
+/* Performance Insights Block */
+.performance-insights {
+  background: var(--card-bg);
+  padding: 2rem;
+  border-radius: 12px;
+  border: 1px solid var(--border-color);
+  margin: 3rem 0;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+.performance-insights h3 {
+  margin-top: 0;
+  color: var(--accent-color);
+  font-size: 1.5rem;
+}
+
+/* Comparison Table */
+.table-responsive {
+  overflow-x: auto;
+  margin: 3rem 0;
+  border-radius: 12px;
+  border: 1px solid var(--border-color);
+}
+
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--card-bg);
+  font-size: 1rem;
+  min-width: 600px;
+}
+
+.comparison-table th,
+.comparison-table td {
+  padding: 1.25rem;
+  text-align: left;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.comparison-table th {
+  background: rgba(229, 9, 20, 0.1);
+  color: var(--accent-color);
+  font-family: "Outfit", sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  letter-spacing: 0.05em;
+}
+
+.comparison-table tr:last-child td {
+  border-bottom: none;
+}
+
+.comparison-table td:nth-child(2) {
+  color: var(--accent-color);
+  font-weight: 600;
+}
+
+/* Who Should Buy / Look Elsewhere */
+.who-should-buy {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin: 3rem 0;
+}
+
+.ideal-for,
+.look-elsewhere {
+  background: var(--card-bg);
+  padding: 2rem;
+  border-radius: 12px;
+  border: 1px solid var(--border-color);
+}
+
+.ideal-for h3 {
+  color: #4caf50;
+  margin-top: 0;
+}
+
+.look-elsewhere h3 {
+  color: var(--accent-color);
+  margin-top: 0;
+}
+
+@media (max-width: 768px) {
+  .who-should-buy {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* FAQ Section Styling - Handled by styles.css for accordion functionality */
+.faq-section {
+  margin: 1rem 0 3rem;
+}
+
+.faq-section h2 {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+}
+
+/* CTA Buttons */
+.cta-buttons {
+  display: flex;
+  gap: 1.5rem;
+  margin: 4rem 0;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.cta-btn {
+  padding: 1rem 2.5rem;
+  border-radius: 8px;
+  font-weight: 700;
+  font-family: "Outfit", sans-serif;
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  transition: var(--transition);
+}
+
+.cta-btn.primary {
+  background: var(--accent-color);
+  color: white;
+  box-shadow: 0 8px 25px rgba(229, 9, 20, 0.4);
+}
+
+.cta-btn.secondary {
+  background: transparent;
+  border: 2px solid var(--accent-color);
+  color: var(--accent-color);
+}
+
+.cta-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 30px rgba(229, 9, 20, 0.6);
+}
+
+.cta-btn.secondary:hover {
+  background: rgba(229, 9, 20, 0.1);
+}
+
+/* Key Takeaways Box */
+.key-takeaways {
+  background: linear-gradient(135deg, rgba(229, 9, 20, 0.1) 0%, rgba(0, 0, 0, 0.8) 100%);
+  padding: 2.5rem;
+  border-radius: 16px;
+  border: 1px solid var(--accent-color);
+  margin: 3rem 0;
+}
+
+.key-takeaways h2 {
+  margin-top: 0;
+  color: var(--accent-color);
+}
+
+/* Category Grid for Content Catalog */
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.category-item {
+  background: var(--card-bg);
+  padding: 1.5rem;
+  border-radius: 12px;
+  border: 1px solid var(--border-color);
+  font-size: 0.95rem;
+}
+
+.category-item strong {
+  display: block;
+  color: var(--accent-color);
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+}
+
+/* Ad-Free Block */
+.ad-free-block {
+  background: rgba(76, 175, 80, 0.05);
+  border-left: 4px solid #4caf50;
+  padding: 2rem;
+  border-radius: 0 12px 12px 0;
+  margin: 3rem 0;
+}
+
+/* Safety Credentials */
+.safety-credentials {
+  background: var(--card-bg);
+  padding: 2rem;
+  border-radius: 12px;
+  border: 1px solid var(--border-color);
+  margin: 3rem 0;
 }

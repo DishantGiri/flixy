@@ -90,6 +90,21 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>
     `;
 
+    // Initialize FAQ Toggle for dynamically injected content
+    const blogFaqItems = postContainer.querySelectorAll('.faq-item');
+    blogFaqItems.forEach(item => {
+        const header = item.querySelector('.faq-question-header');
+        if (header) {
+            header.addEventListener('click', () => {
+                const isActive = item.classList.contains('active');
+                blogFaqItems.forEach(i => i.classList.remove('active'));
+                if (!isActive) {
+                    item.classList.add('active');
+                }
+            });
+        }
+    });
+
     function showError(message) {
         postContainer.innerHTML = `
             <div class="error-container">

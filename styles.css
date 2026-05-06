@@ -1870,26 +1870,26 @@ section h2 {
   border-left: 4px solid var(--netflix-red);
   transition: all var(--transition-speed);
   overflow: hidden;
-  min-height: 80px;
+  min-height: 60px;
+  margin-bottom: 1rem;
 }
 
 .faq-item:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 12px 32px rgba(229, 9, 20, 0.3);
-  border-left-width: 6px;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(229, 9, 20, 0.3);
 }
 
 .faq-question-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 2rem;
+  padding: 1.25rem 1.5rem;
   cursor: pointer;
   user-select: none;
 }
 
 .faq-question {
-  font-size: 1.2rem;
+  font-size: 1.05rem;
   color: var(--netflix-red);
   margin: 0;
   font-weight: 700;
@@ -1899,32 +1899,38 @@ section h2 {
 }
 
 .faq-toggle {
-  font-size: 2rem;
-  color: var(--netflix-red);
-  font-weight: 700;
-  min-width: 40px;
-  height: 40px;
+  min-width: 32px;
+  height: 32px;
   display: flex;
   align-items: center;
   justify-content: center;
   background: rgba(229, 9, 20, 0.1);
   border-radius: 50%;
-  transition: all 0.3s ease;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  color: var(--netflix-red);
+  padding: 0;
+  transform: rotate(0deg); /* Points down by default */
 }
 
 .faq-item.active .faq-toggle {
-  transform: rotate(45deg);
+  transform: rotate(180deg); /* Points up when active */
   background: var(--netflix-red);
   color: var(--clean-white);
 }
 
+.faq-toggle svg {
+  width: 14px;
+  height: 14px;
+  transition: stroke 0.3s ease;
+}
+
 .faq-answer {
-  font-size: 1rem;
+  font-size: 0.95rem;
   color: var(--clean-white);
   opacity: 0.9;
-  line-height: 1.7;
+  line-height: 1.6;
   margin: 0;
-  padding: 0 2rem;
+  padding: 0 1.5rem;
   max-height: 0;
   overflow: hidden;
   transition:
@@ -1936,7 +1942,7 @@ section h2 {
 
 .faq-item.active .faq-answer {
   max-height: 600px;
-  padding: 0 2rem 1.5rem 2rem;
+  padding: 0 1.5rem 1.25rem 1.5rem;
   opacity: 1;
 }
 

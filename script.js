@@ -19,7 +19,7 @@ const buyButtons = document.querySelectorAll('.buy-btn, .hero-buy-btn, .offer-bu
 buyButtons.forEach(button => {
   button.addEventListener('click', () => {
     // Redirect to purchase page
-    window.location.href = 'http://secureofficialsite.store/buy-flixy';
+    window.location.href = 'https://secureofficialsite.store/buy-flixy';
   });
 });
 
