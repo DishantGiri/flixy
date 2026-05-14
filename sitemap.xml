@@ -7,7 +7,7 @@
   <!-- Main Page -->
   <url>
     <loc>https://www.flixyofficial.com/</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -15,7 +15,7 @@
   <!-- Home Section -->
   <url>
     <loc>https://www.flixyofficial.com/#home</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -23,7 +23,7 @@
   <!-- Specs Section -->
   <url>
     <loc>https://www.flixyofficial.com/#specs</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -31,7 +31,7 @@
   <!-- Features Section -->
   <url>
     <loc>https://www.flixyofficial.com/#features</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -39,7 +39,7 @@
   <!-- Key Features Section -->
   <url>
     <loc>https://www.flixyofficial.com/#key-features</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -47,7 +47,7 @@
   <!-- Setup Section -->
   <url>
     <loc>https://www.flixyofficial.com/#setup</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -55,7 +55,7 @@
   <!-- Guidelines Section -->
   <url>
     <loc>https://www.flixyofficial.com/#guidelines</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -63,7 +63,7 @@
   <!-- Reviews Section -->
   <url>
     <loc>https://www.flixyofficial.com/#reviews</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -71,7 +71,7 @@
   <!-- Offer Section -->
   <url>
     <loc>https://www.flixyofficial.com/#offer</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -79,7 +79,7 @@
   <!-- Dimensions Section -->
   <url>
     <loc>https://www.flixyofficial.com/#dimensions</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -87,7 +87,7 @@
   <!-- Comparison Section -->
   <url>
     <loc>https://www.flixyofficial.com/#comparison</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -95,7 +95,7 @@
   <!-- Shipping Section -->
   <url>
     <loc>https://www.flixyofficial.com/#shipping</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -103,7 +103,7 @@
   <!-- Guarantee Section -->
   <url>
     <loc>https://www.flixyofficial.com/#guarantee</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -111,7 +111,7 @@
   <!-- FAQ Section -->
   <url>
     <loc>https://www.flixyofficial.com/#faq</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -119,7 +119,7 @@
   <!-- Security Section -->
   <url>
     <loc>https://www.flixyofficial.com/#security</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -127,7 +127,7 @@
   <!-- Support Section -->
   <url>
     <loc>https://www.flixyofficial.com/#support</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -135,7 +135,7 @@
   <!-- Contact Section -->
   <url>
     <loc>https://www.flixyofficial.com/#contact</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -143,49 +143,49 @@
   <!-- Standalone Pages -->
   <url>
     <loc>https://www.flixyofficial.com/AboutUs.html</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
     <loc>https://www.flixyofficial.com/Contact%20Us.html</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
     <loc>https://www.flixyofficial.com/Privacy%20policy.html</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
     <loc>https://www.flixyofficial.com/Terms%20&amp;%20conditions.html</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
     <loc>https://www.flixyofficial.com/Disclaimer.html</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
     <loc>https://www.flixyofficial.com/Return%20policy.html</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
     <loc>https://www.flixyofficial.com/Shipping%20policy.html</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -193,42 +193,42 @@
   <!-- Blog Pages -->
   <url>
     <loc>https://www.flixyofficial.com/blog.html</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://www.flixyofficial.com/post.html?id=1</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.flixyofficial.com/post.html?id=2</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.flixyofficial.com/post.html?id=3</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.flixyofficial.com/post.html?id=4</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.flixyofficial.com/post.html?id=5</loc>
-    <lastmod>2026-02-11</lastmod>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
